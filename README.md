@@ -24,7 +24,6 @@
 - 🏫 Universidad de San Carlos de Guatemala
 - 💬 Siempre buscando nuevos retos y proyectos
 - 📫 Contáctame: **iosealexander40@gmail.com**
-- ⚡ Fun fact: El código siempre tiene solución 😄
 
 
 
