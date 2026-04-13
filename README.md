@@ -1,7 +1,13 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F5FF¢er=true&vCenter=true&width=600&lines=Hola%2C+soy+Jos%C3%A9+Alexander+%F0%9F%91%8B;Estudiante+de+Software+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo+%F0%9F%92%A1)
+  
+
+
+
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF¢er=true&vCenter=true&width=600&lines=Hola%2C+soy+Jos%C3%A9+Alexander+%F0%9F%91%8B;Estudiante+de+Software+%F0%9F%9A%80;PHP+%7C+Java+%7C+Python+%7C+C%2B%2B+%7C+Swift;Siempre+aprendiendo+algo+nuevo+%F0%9F%92%A1)
 
 
 
@@ -15,9 +21,13 @@
 
 - 🎓 Estudiante apasionado por el desarrollo de software
 - 🌱 Aprendiendo **PHP, Java, Python, C++** y **Swift**
+- 🏫 Universidad de San Carlos de Guatemala
 - 💬 Siempre buscando nuevos retos y proyectos
 - 📫 Contáctame: **iosealexander40@gmail.com**
 - ⚡ Fun fact: El código siempre tiene solución 😄
+
+
+
 
 ---
 
@@ -38,15 +48,38 @@
 
 ---
 
+### 🏆 Trofeos de GitHub
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoseArt777&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 
 
 ![JoseArt777's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseArt777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArt777&layout=compact&theme=tokyonight&hide_border=true)
 
+
+
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=JoseArt777&theme=tokyonight&hide_border=true)
+
+
+
+---
+
+### 🐍 Mis contribuciones
+
+
+
+![snake gif](https://github.com/JoseArt777/JoseArt777/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
@@ -62,7 +95,6 @@
 
 
 
----
 
 
   
