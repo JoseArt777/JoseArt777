@@ -62,8 +62,8 @@
 
 
 
-![JoseArt777's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseArt777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArt777&layout=compact&theme=tokyonight&hide_border=true)
+![JoseArt777's GitHub Stats](https://github-readme-stats-dun-nu-41.vercel.app/api?username=JoseArt777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-dun-nu-41.vercel.app/api/top-langs/?username=JoseArt777&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
