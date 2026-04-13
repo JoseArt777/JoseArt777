@@ -52,8 +52,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoseArt777&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoseArt777&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
